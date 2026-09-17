@@ -37,26 +37,15 @@ Ainda não fechei em um nicho específico dentro de DS, e isso é proposital: es
 
 ### 📊 projetos em destaque
 
-<!--
-Descomente este bloco assim que publicar o repositório do projeto de risco de crédito
-(troque "credit-risk-classification" pelo nome real que você der ao repositório)
-
 <div align="center">
 
-[![Credit Risk Classification](https://github-readme-stats.vercel.app/api/pin/?username=JulyaTorres&repo=credit-risk-classification&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=ffffff&border_color=A8E6CF)](https://github.com/JulyaTorres/credit-risk-classification)
+[![Projeto RiscoCredito](https://github-readme-stats.vercel.app/api/pin/?username=JulyaTorres&repo=Projeto_RiscoCredito&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true)](https://github.com/JulyaTorres/Projeto_RiscoCredito)
 
 </div>
--->
-
-*(em breve — publicando o projeto de risco de crédito)*
 
 ---
 
 ### 📈 estatísticas
-
-<!--
-Estes dois cards (stats gerais e top-langs) precisam de pelo menos um repositório público
-com código pra terem o que mostrar. Descomente assim que publicar seu primeiro projeto.
 
 <div align="center">
 
@@ -64,7 +53,6 @@ com código pra terem o que mostrar. Descomente assim que publicar seu primeiro 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyaTorres&layout=compact&theme=transparent&title_color=C8A2C8&text_color=6B4C6B&border_color=A8E6CF&hide_border=true"/>
 
 </div>
--->
 
 <div align="center">
 
