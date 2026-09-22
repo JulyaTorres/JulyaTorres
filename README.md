@@ -39,7 +39,7 @@ Ainda não fechei em um nicho específico dentro de DS, e isso é proposital: es
 
 <div align="center">
 
-[![Projeto RiscoCredito](https://github-readme-stats-nu-three-97.vercel.app/api/pin/?username=JulyaTorres&repo=Projeto_RiscoCredito&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true)](https://github.com/JulyaTorres/Projeto_RiscoCredito)
+[![Projeto RiscoCredito](ttps://github-readme-stats-nu-three-97.vercel.app/api?username=JulyaTorres&repo=Projeto_RiscoCredito&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true)](https://github.com/JulyaTorres/Projeto_RiscoCredito)
 
 </div>
 
