@@ -39,7 +39,7 @@ Ainda não fechei em um nicho específico dentro de DS, e isso é proposital: es
 
 <div align="center">
 
-[![Projeto RiscoCredito](ttps://github-readme-stats-nu-three-97.vercel.app/api?username=JulyaTorres&repo=Projeto_RiscoCredito&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true)](https://github.com/JulyaTorres/Projeto_RiscoCredito)
+[![Projeto RiscoCredito](https://github-readme-stats-nu-three-97.vercel.app/api/pin/?username=JulyaTorres&repo=Projeto_RiscoCredito&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true)](https://github.com/JulyaTorres/Projeto_RiscoCredito)
 
 </div>
 
@@ -49,7 +49,7 @@ Ainda não fechei em um nicho específico dentro de DS, e isso é proposital: es
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-nu-three-97.vercel.app/api?username=JulyaTorres&show_icons=true&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-nu-three-97.vercel.app/api?username=JulyaTorres&show_icons=true&hide=stars,prs,issues,contribs&theme=transparent&title_color=C8A2C8&icon_color=F7CAC9&text_color=6B4C6B&border_color=A8E6CF&hide_border=true"/>
 <img height="165em" src="https://github-readme-stats-nu-three-97.vercel.app/api/top-langs/?username=JulyaTorres&layout=compact&theme=transparent&title_color=C8A2C8&text_color=6B4C6B&border_color=A8E6CF&hide_border=true"/>
 
 </div>
